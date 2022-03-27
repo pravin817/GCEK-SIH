@@ -1,0 +1,125 @@
+.jumbotron {
+    padding:100px 30px 100px 30px;
+    text-align: center;
+    margin:0;  
+    /*background-image:linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.8)),url(src/article.jpg);*/
+    min-height: 75vh;
+    background-size: cover;
+    color: white;
+    background-color: #4E4E91;
+}
+.navbar{
+    float:left;
+ 
+}  
+
+.form-group{
+    padding-top: 30px;
+}
+.row-content{
+    padding-top: 30px;
+}
+.jumbotron{
+   /* background-image:linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.8)),url(src/article.jpg);*/
+    height: 60vh;
+    background-size: cover;
+   
+    color: white;
+}
+.title{
+    position: absolute;
+    top:30%;
+    left:50%;
+    transform: translate(-50%,-50%);
+  }
+  .navbar-dark {
+    color: white;
+}
+
+.row-con{
+    padding-top: 80px;
+}
+.btn-grp{
+    text-align: center;
+    align-items: center;
+}
+.content{
+    padding-top: 60px;
+    text-align: center;
+}
+.btn{
+
+    margin-left: 70px;
+    width: 45%;
+    height: 40px;
+    border-radius: 1.25rem;
+
+}
+.hide{
+    display: none;
+}
+.show{
+    display: block;
+}
+ 
+.card{
+    background-color: #EFEFF5;
+    /* border-radius: 1.25rem; */
+    padding: 0px;
+    border-radius: 1.25rem;
+    border: 2px solid rgb(88, 54, 212);
+    height: 410px;
+}
+
+.card-title
+{
+    text-align: center;
+    background-color: #EFEFF5;
+    height: 80px;
+    padding: 7px;
+    overflow: hidden;
+    /* margin-top: 0px; */
+    /* margin: 2px 2px ; */
+    border: 1px solid #d2d2fa;
+    border-radius: 20px;
+    /* border-radius: 200px solid black; */
+    /* border-radius: 2px solid black; */
+}
+
+.card-text{
+    text-align: justify;
+    height: 220px;
+    overflow: hidden;
+    /* border: 20px solid blue ; */
+}
+
+.card-body{
+    border-radius: 100px solid rgb(0, 0, 0);
+}
+
+.card-eligibility{
+    background-color: yellow;
+    height: 150px;
+}
+
+.btn-grp1 {
+    height: 35px;
+}
+
+.btn-grp1 button:hover{
+    background-color: #0B5ED7;
+}
+
+.btn-grp1 button{
+    background-color: #0D6EFD;
+    margin: 15px;
+    padding: 2px;
+    width: 180px;
+    height: 40px;
+    text-align: center;
+    font-size: large;
+    color: white;
+    border-radius: 20px;
+   
+    /* border-radius: 200px solid black; */
+}

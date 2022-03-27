@@ -1,1 +1,1 @@
-# GCEK-SIH
+# scholarship-project
